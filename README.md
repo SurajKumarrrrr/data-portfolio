@@ -10,3 +10,4 @@ Stack across the projects: Python, SQL, pandas/Polars, PySpark, dbt, Airflow, Du
 | Project | What it shows | Added |
 |---|---|---|
 | [db-delay-etl-pipeline](https://github.com/SurajKumarrrrr/db-delay-etl-pipeline) | Idempotent batch ETL for Deutsche Bahn-style train delay data: Python, pandas, DuckDB star schema, punctuality KPIs, CI | 2026-11-16 |
+| [sql-interview-case-studies](https://github.com/SurajKumarrrrr/sql-interview-case-studies) | 15 SQL case studies (window functions, cohorts, gaps & islands) on e-commerce data, auto-tested on PostgreSQL + DuckDB | 2026-11-16 |
