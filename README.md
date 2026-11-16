@@ -9,3 +9,4 @@ Stack across the projects: Python, SQL, pandas/Polars, PySpark, dbt, Airflow, Du
 
 | Project | What it shows | Added |
 |---|---|---|
+| [db-delay-etl-pipeline](https://github.com/SurajKumarrrrr/db-delay-etl-pipeline) | Idempotent batch ETL for Deutsche Bahn-style train delay data: Python, pandas, DuckDB star schema, punctuality KPIs, CI | 2026-11-16 |
