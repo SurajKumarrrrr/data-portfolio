@@ -1,0 +1,1 @@
+{"description": "Idempotent batch ETL for Deutsche Bahn-style train delay data: Python, pandas, DuckDB star schema, punctuality KPIs, CI", "topics": ["python", "data-engineering", "etl", "duckdb", "pandas", "sql", "deutsche-bahn", "data-pipeline"]}
