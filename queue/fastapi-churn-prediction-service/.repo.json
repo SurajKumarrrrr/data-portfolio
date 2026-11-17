@@ -1,1 +1,0 @@
-{"description": "Churn model (scikit-learn) served via FastAPI + Docker: validated API, tests, CI and a generated model card", "topics": ["python", "machine-learning", "fastapi", "scikit-learn", "mlops", "docker", "churn-prediction", "pydantic"]}
