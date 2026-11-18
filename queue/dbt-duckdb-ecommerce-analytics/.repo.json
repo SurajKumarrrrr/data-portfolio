@@ -1,0 +1,1 @@
+{"description": "dbt + DuckDB ELT project: raw → staging → star schema marts for e-commerce, 67 data tests, CI", "topics": ["python", "dbt", "duckdb", "analytics-engineering", "data-engineering", "sql", "data-modeling", "star-schema"]}
