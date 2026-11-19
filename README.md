@@ -13,3 +13,4 @@ Stack across the projects: Python, SQL, pandas/Polars, PySpark, dbt, Airflow, Du
 | [sql-interview-case-studies](https://github.com/SurajKumarrrrr/sql-interview-case-studies) | 15 SQL case studies (window functions, cohorts, gaps & islands) on e-commerce data, auto-tested on PostgreSQL + DuckDB | 2026-11-16 |
 | [fastapi-churn-prediction-service](https://github.com/SurajKumarrrrr/fastapi-churn-prediction-service) | Churn model (scikit-learn) served via FastAPI + Docker: validated API, tests, CI and a generated model card | 2026-11-17 |
 | [dbt-duckdb-ecommerce-analytics](https://github.com/SurajKumarrrrr/dbt-duckdb-ecommerce-analytics) | dbt + DuckDB ELT project: raw → staging → star schema marts for e-commerce, 67 data tests, CI | 2026-11-18 |
+| [airflow-energy-price-pipeline](https://github.com/SurajKumarrrrr/airflow-energy-price-pipeline) | Airflow 3 DAG loading German day-ahead power prices (SMARD-style) into DuckDB: idempotent, DST-safe, tested | 2026-11-19 |

@@ -1,1 +1,0 @@
-{"description": "Airflow 3 DAG loading German day-ahead power prices (SMARD-style) into DuckDB: idempotent, DST-safe, tested", "topics": ["python", "data-engineering", "airflow", "duckdb", "etl", "energy", "docker", "data-quality"]}
