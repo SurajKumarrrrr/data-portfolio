@@ -7,7 +7,7 @@ Reorder, add or delete lines freely. Format: `- [ ] repo-name — one-line idea`
 - [x] sql-interview-case-studies — 15 SQL problems (window functions, CTEs, gaps & islands) on a Dockerised PostgreSQL e-commerce schema, with tested solutions
 - [x] fastapi-churn-prediction-service — scikit-learn churn model served with FastAPI + Docker, with input validation, tests and a model card
 - [x] dbt-duckdb-ecommerce-analytics — dbt project on DuckDB: staging → marts, tests, docs, star schema for orders/customers
-- [ ] airflow-energy-price-pipeline — Airflow DAG ingesting German day-ahead electricity prices (SMARD-style), idempotent daily loads, docker-compose
+- [x] airflow-energy-price-pipeline — Airflow DAG ingesting German day-ahead electricity prices (SMARD-style), idempotent daily loads, docker-compose
 - [ ] frankfurt-rent-price-analysis — EDA and regression on Frankfurt rental listings (synthetic, realistic), feature importance, clear findings
 - [ ] streamlit-retail-kpi-dashboard — interactive Streamlit dashboard for sales KPIs with filters and cached queries
 - [ ] pyspark-batch-taxi-processing — PySpark batch job: partitioning, joins, aggregations, local Spark, unit tests with chispa
