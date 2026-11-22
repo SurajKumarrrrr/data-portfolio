@@ -1,1 +1,0 @@
-{"description": "PySpark batch job for NYC-TLC-style taxi trips: data-quality quarantine, broadcast joins, window ranks, partitioned Parquet", "topics": ["python", "pyspark", "apache-spark", "data-engineering", "etl", "parquet", "batch-processing", "chispa", "pytest"]}
