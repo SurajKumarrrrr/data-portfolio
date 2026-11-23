@@ -11,7 +11,7 @@ Reorder, add or delete lines freely. Format: `- [ ] repo-name — one-line idea`
 - [x] frankfurt-rent-price-analysis — EDA and regression on Frankfurt rental listings (synthetic, realistic), feature importance, clear findings
 - [x] streamlit-retail-kpi-dashboard — interactive Streamlit dashboard for sales KPIs with filters and cached queries
 - [x] pyspark-batch-taxi-processing — PySpark batch job: partitioning, joins, aggregations, local Spark, unit tests with chispa
-- [ ] data-quality-pandera-checks — reusable data-quality layer with pandera schemas, failing-row reports and CI gate
+- [x] data-quality-pandera-checks — reusable data-quality layer with pandera schemas, failing-row reports and CI gate
 - [ ] kafka-sensor-streaming-pipeline — docker-compose Kafka producer/consumer for IoT sensor data with windowed aggregates
 - [ ] german-review-sentiment-nlp — sentiment classification for German product reviews (TF-IDF baseline vs small transformer)
 - [ ] energy-demand-forecasting — time-series forecasting of German electricity load: baselines, SARIMA, gradient boosting, backtesting
