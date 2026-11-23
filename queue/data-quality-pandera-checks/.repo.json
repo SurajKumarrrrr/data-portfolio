@@ -1,1 +1,0 @@
-{"description": "Reusable data-quality layer: pandera contracts, cross-table checks, quarantine + failing-row reports, CI gate", "topics": ["python", "data-engineering", "data-quality", "pandera", "pandas", "data-validation", "ci-cd", "testing"]}

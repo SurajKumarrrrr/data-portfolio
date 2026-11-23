@@ -1,5 +1,0 @@
-pandas>=2.2,<4
-numpy>=1.26,<3
-pandera>=0.24,<1
-pytest>=8,<10
-ruff>=0.6
