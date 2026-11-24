@@ -1,0 +1,32 @@
+[project]
+name = "sensorstream"
+version = "0.1.0"
+description = "IoT sensor streaming pipeline with event-time windows on Kafka"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Suraj Kumar Ajampudi" }]
+dependencies = ["kafka-python>=2.0,<4", "pandas>=2.0,<4"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.5"]
+
+[project.scripts]
+sensorstream = "sensorstream.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
