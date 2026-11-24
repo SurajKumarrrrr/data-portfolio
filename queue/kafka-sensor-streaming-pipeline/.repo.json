@@ -1,1 +1,0 @@
-{"description": "Kafka IoT sensor streaming pipeline: event-time tumbling windows, watermarks, DLQ, idempotent SQLite sink, docker-compose", "topics": ["python", "kafka", "stream-processing", "data-engineering", "iot", "docker-compose", "event-time", "sqlite"]}
