@@ -1,0 +1,31 @@
+text,label,phenomenon
+"Der Akku ist nicht schlecht, hält locker zwei Tage durch.",positiv,negation
+"Ich hatte keine Probleme bei der Einrichtung, alles lief sofort.",positiv,negation
+"Nicht gut. Das Gerät wird nach zehn Minuten unangenehm heiß.",negativ,negation
+"Kann ich leider nicht empfehlen, der Deckel bricht ständig ab.",negativ,negation
+"Keine Ahnung, warum das so gute Bewertungen hat. Enttäuschend.",negativ,negation
+"Die Lieferung war super schnell, aber das Display hat einen Pixelfehler. Schicke ich zurück.",negativ,contrast
+"Am Anfang war ich skeptisch, aber die Kamera ist wirklich hervorragend.",positiv,contrast
+"Sieht toll aus, doch nach einer Woche war der Akku hinüber.",negativ,contrast
+"Die Verpackung war beschädigt, aber das Produkt selbst ist einwandfrei.",positiv,contrast
+"Der Preis ist hoch, aber die Qualität rechtfertigt ihn. Lohnt sich.",positiv,contrast
+"Funktioniert, mehr aber auch nicht.",neutral,neutral
+"Ganz okay für den Alltag, nichts Besonderes.",neutral,neutral
+"Durchschnittliche Qualität zum durchschnittlichen Preis.",neutral,neutral
+"Tut, was es soll. Die Verarbeitung ist solide, der Klang mittelmäßig.",neutral,neutral
+"Teils gut, teils schlecht. Der Klang ist prima, der Akku eher schwach.",neutral,mixed
+"Absolut begeistert! Bester Kauf des Jahres.",positiv,plain
+"Hervorragende Saugleistung und angenehm leise.",positiv,plain
+"Die Schuhe sitzen perfekt und dämpfen sehr gut.",positiv,plain
+"Totaler Schrott, nach zwei Tagen kaputt.",negativ,plain
+"Miserabler Kundenservice, niemand antwortet auf meine Mails.",negativ,plain
+"Die Bohrmaschine ist viel zu schwer und laut.",negativ,plain
+"Die Kaffeemaschine macht einen leckeren Kaffee und ist schnell sauber.",positiv,plain
+"Ueberhaupt nicht zufrieden, die Passform ist voellig daneben.",negativ,transliteration
+"Das Preis-Leistungs-Verhaeltnis ist klasse, wuerde ich wieder kaufen.",positiv,transliteration
+"Der Kafee schmeckt hervoragend und die Bedinung ist einfach.",positiv,typo
+"Schade ums Geld. Die Saugleistung ist entäuschend.",negativ,typo
+"Na ja, man bekommt, wofür man bezahlt.",neutral,neutral
+"Ohne Probleme verbunden, der Sound ist klasse.",positiv,negation
+"Nie wieder! Der Support ist eine Katastrophe.",negativ,negation
+"Die Kamera ist gut, die Software aber völlig verbuggt und der Akku schwach. Schade.",negativ,contrast
