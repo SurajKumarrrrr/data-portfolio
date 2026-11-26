@@ -1,0 +1,1 @@
+{"description": "Day-ahead forecasting of German-style hourly electricity load: naive baselines, SARIMA, gradient boosting, rolling backtest", "topics": ["python", "data-science", "time-series", "forecasting", "sarima", "scikit-learn", "statsmodels", "energy"]}

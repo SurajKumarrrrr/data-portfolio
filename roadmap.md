@@ -14,7 +14,7 @@ Reorder, add or delete lines freely. Format: `- [ ] repo-name — one-line idea`
 - [x] data-quality-pandera-checks — reusable data-quality layer with pandera schemas, failing-row reports and CI gate
 - [x] kafka-sensor-streaming-pipeline — docker-compose Kafka producer/consumer for IoT sensor data with windowed aggregates
 - [x] german-review-sentiment-nlp — sentiment classification for German product reviews (TF-IDF baseline vs small transformer)
-- [ ] energy-demand-forecasting — time-series forecasting of German electricity load: baselines, SARIMA, gradient boosting, backtesting
+- [x] energy-demand-forecasting — time-series forecasting of German electricity load: baselines, SARIMA, gradient boosting, backtesting
 - [ ] ab-test-analysis-toolkit — A/B testing library: power analysis, frequentist + Bayesian tests, report generation
 - [ ] mlflow-experiment-tracking — reproducible ML training with MLflow tracking, model registry and comparison report
 - [ ] customer-segmentation-rfm — RFM + KMeans customer segmentation with business-ready segment profiles
