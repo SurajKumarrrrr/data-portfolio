@@ -22,3 +22,4 @@ Stack across the projects: Python, SQL, pandas/Polars, PySpark, dbt, Airflow, Du
 | [german-review-sentiment-nlp](https://github.com/SurajKumarrrrr/german-review-sentiment-nlp) | German product-review sentiment: TF-IDF + negation baselines vs a tiny PyTorch Transformer, slice eval | 2026-11-25 |
 | [energy-demand-forecasting](https://github.com/SurajKumarrrrr/energy-demand-forecasting) | Day-ahead forecasting of German-style hourly electricity load: naive baselines, SARIMA, gradient boosting, rolling backtest | 2026-11-26 |
 | [ab-test-analysis-toolkit](https://github.com/SurajKumarrrrr/ab-test-analysis-toolkit) | A/B testing toolkit: power analysis, z/Welch tests, CUPED, Bayesian Beta-Binomial, SRM checks, peeking simulation | 2026-11-27 |
+| [mlflow-experiment-tracking](https://github.com/SurajKumarrrrr/mlflow-experiment-tracking) | Reproducible ML training with MLflow: config-driven experiments, model registry with champion/challenger gate, reports | 2026-11-28 |
