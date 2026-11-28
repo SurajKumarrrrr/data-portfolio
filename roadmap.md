@@ -16,7 +16,7 @@ Reorder, add or delete lines freely. Format: `- [ ] repo-name — one-line idea`
 - [x] german-review-sentiment-nlp — sentiment classification for German product reviews (TF-IDF baseline vs small transformer)
 - [x] energy-demand-forecasting — time-series forecasting of German electricity load: baselines, SARIMA, gradient boosting, backtesting
 - [x] ab-test-analysis-toolkit — A/B testing library: power analysis, frequentist + Bayesian tests, report generation
-- [ ] mlflow-experiment-tracking — reproducible ML training with MLflow tracking, model registry and comparison report
+- [x] mlflow-experiment-tracking — reproducible ML training with MLflow tracking, model registry and comparison report
 - [ ] customer-segmentation-rfm — RFM + KMeans customer segmentation with business-ready segment profiles
 - [ ] fraud-detection-imbalanced — fraud detection on imbalanced data: SMOTE vs class weights, PR-AUC, threshold tuning
 - [ ] incremental-api-ingestion — incremental REST API ingestion with watermarks, retries, pagination and state handling
